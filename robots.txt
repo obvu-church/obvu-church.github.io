@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osgoode-baptist-and-vernon-united.github.io/sitemap.xml
